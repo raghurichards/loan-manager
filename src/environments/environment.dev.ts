@@ -1,7 +1,7 @@
 export const environment = {
   production: false,
   BASE_URL: 'http://localhost:3000/',
-  // BASE_URL: 'https://loanmanager-d860b.web.app:3000/',
+  // BASE_URL: 'https://loan-manager-heroku.herokuapp.com/',
 
   CUSTOMER_BASE_URL: 'http://localhost:3000/customers/',
   //CUSTOMER_BASE_URL: 'https://loanmanager-d860b.web.app:3000/customers/',
